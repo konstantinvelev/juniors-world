@@ -9,4 +9,5 @@ public class Address
     }
 
     public bool IsCity { get; set; }
+    public int MyProperty { get; set; }
 }
