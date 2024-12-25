@@ -2,6 +2,6 @@
 
 public class Address
 {
-    public int Street { get; set; }
-    public string City { get; set; }
+    public bool IsCity { get; set; }
+    public bool IsCity1 { get; set; }
 }
