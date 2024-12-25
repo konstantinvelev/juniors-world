@@ -2,5 +2,6 @@
 
 public class Address
 {
-    public string Street { get; set; }
+    public int Street { get; set; }
+    public string City { get; set; }
 }
