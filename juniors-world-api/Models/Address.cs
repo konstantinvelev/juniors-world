@@ -2,6 +2,9 @@
 
 public class Address
 {
-    public int Street { get; set; }
-    public string City { get; set; }
+    private readonly char _signelLetter;
+    public Address()
+    {
+        
+    }
 }
